@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665175895 source:c:\users\lucas lima\desktop\cursos feitos\algoritimos e logica de programação\linguagem c\menor_tres\main.c
+	<stdio.h>
+	<stdlib.h>
+
