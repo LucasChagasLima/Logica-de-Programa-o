@@ -6,4 +6,4 @@ O curso vem me ajudando muito com a ordem que os problemas precisam ser solucion
 
 Vou publicar o progresso aqui, sempre que for finalizando as atividades e módulos.   
 
-!alt text]([Logica-de-Programa-o/pics/Curso - Lógica.png](https://github.com/LucasChagasLima/Logica-de-Programa-o/blob/main/pics/Curso%20-%20L%C3%B3gica.png))
+![alt text](https://github.com/LucasChagasLima/Logica-de-Programa-o/blob/main/pics/Curso%20-%20L%C3%B3gica.png)
