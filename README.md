@@ -5,3 +5,5 @@ O curso se inicia no visualg(Portugol) onde fiz diversas atividades com estrutur
 O curso vem me ajudando muito com a ordem que os problemas precisam ser solucionados, e melhorando a forma de pensar para solucioná-los.
 
 Vou publicar o progresso aqui, sempre que for finalizando as atividades e módulos.   
+
+!alt text] Logica-de-Programa-o/pics/Curso - Lógica.png
