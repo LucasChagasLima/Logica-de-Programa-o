@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665241403 source:c:\users\lucas lima\desktop\cursos feitos\algoritimos e logica de programação\linguagem c\media_idades\main.c
+	<stdio.h>
+	<stdlib.h>
+
