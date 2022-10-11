@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665434283 source:c:\users\lucas lima\desktop\cursos feitos\algoritimos e logica de programação\c++\crescente\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
