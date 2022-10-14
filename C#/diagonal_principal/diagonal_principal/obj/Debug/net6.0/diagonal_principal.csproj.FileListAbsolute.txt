@@ -1,0 +1,15 @@
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\obj\Debug\net6.0\diagonal_principal.csproj.AssemblyReference.cache
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\obj\Debug\net6.0\diagonal_principal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\obj\Debug\net6.0\diagonal_principal.AssemblyInfoInputs.cache
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\obj\Debug\net6.0\diagonal_principal.AssemblyInfo.cs
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\obj\Debug\net6.0\diagonal_principal.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\bin\Debug\net6.0\diagonal_principal.exe
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\bin\Debug\net6.0\diagonal_principal.deps.json
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\bin\Debug\net6.0\diagonal_principal.runtimeconfig.json
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\bin\Debug\net6.0\diagonal_principal.dll
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\bin\Debug\net6.0\diagonal_principal.pdb
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\obj\Debug\net6.0\diagonal_principal.dll
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\obj\Debug\net6.0\refint\diagonal_principal.dll
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\obj\Debug\net6.0\diagonal_principal.pdb
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\obj\Debug\net6.0\diagonal_principal.genruntimeconfig.cache
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\diagonal_principal\diagonal_principal\obj\Debug\net6.0\ref\diagonal_principal.dll

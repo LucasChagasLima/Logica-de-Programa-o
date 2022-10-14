@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "diagonal_principal/1.0.0": {
+        "runtime": {
+          "diagonal_principal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "diagonal_principal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
