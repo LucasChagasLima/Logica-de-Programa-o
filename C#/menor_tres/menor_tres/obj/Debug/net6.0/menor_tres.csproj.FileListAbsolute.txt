@@ -1,0 +1,15 @@
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\obj\Debug\net6.0\menor_tres.csproj.AssemblyReference.cache
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\obj\Debug\net6.0\menor_tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\obj\Debug\net6.0\menor_tres.AssemblyInfoInputs.cache
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\obj\Debug\net6.0\menor_tres.AssemblyInfo.cs
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\obj\Debug\net6.0\menor_tres.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\bin\Debug\net6.0\menor_tres.exe
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\bin\Debug\net6.0\menor_tres.deps.json
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\bin\Debug\net6.0\menor_tres.runtimeconfig.json
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\bin\Debug\net6.0\menor_tres.dll
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\bin\Debug\net6.0\menor_tres.pdb
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\obj\Debug\net6.0\menor_tres.dll
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\obj\Debug\net6.0\refint\menor_tres.dll
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\obj\Debug\net6.0\menor_tres.pdb
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\obj\Debug\net6.0\menor_tres.genruntimeconfig.cache
+C:\Users\Lucas Lima\Desktop\Cursos Feitos\Algoritimos e Logica de Programação\C#\menor_tres\menor_tres\obj\Debug\net6.0\ref\menor_tres.dll
